@@ -1,0 +1,17 @@
+.env
+whisper-env/
+whisperx-env/
+# Local virtual environment folders
+venv/
+env/
+
+# Transcripts and audio outputs
+audios/
+# transcripts/
+# diarization/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local notes
+CODE_IMPROVEMENTS.md
