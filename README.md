@@ -4,13 +4,12 @@ Projeto para transcrição e diarização de áudios usando WhisperX.
 
 Conteúdo principal:
 - `whisperx.ipynb` - notebook principal com fluxo de transcrição, alinhamento e diarização.
-- `audios/` - pasta com subpastas `raw_m4a/`, `wav/` e `mp4/`.
 - `transcripts/` - saída de transcrições em texto.
 - `diarization/` - saída de diarizações em texto.
 
 Como usar
 
-1. Coloque os arquivos `.m4a` em `audios/raw_m4a/`.
+1. Crie uma pasta `audios/` e coloque os arquivos `.m4a` em `audios/raw_m4a/`.
 
 2. Abra e execute o notebook `whisperx.ipynb` no Jupyter/VS Code.
 
