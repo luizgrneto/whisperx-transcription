@@ -1,4 +1,4 @@
-# Transcrição e Diarização de entrevistas com WhisperX
+# Transcrição e Diarização de diálogos com WhisperX
 
 Projeto para transcrição e diarização de áudios usando WhisperX.
 
