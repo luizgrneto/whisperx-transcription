@@ -1,4 +1,4 @@
-# whisper_transcription
+# Transcrição e Diarização de entrevistas com WhisperX
 
 Projeto para transcrição e diarização de áudios usando WhisperX.
 
@@ -9,7 +9,7 @@ Conteúdo principal:
 
 Como usar
 
-1. Crie uma pasta `audios/` e coloque os arquivos `.m4a` em `audios/raw_m4a/`.
+1. Crie uma pasta `audios/` e coloque os arquivos `.m4a` em `audios/raw_m4a/`. Caso o áudio esteja em outro formato, será necessário adaptar no notebook.
 
 2. Abra e execute o notebook `whisperx.ipynb` no Jupyter/VS Code.
 
