@@ -10,6 +10,9 @@ audios/
 # transcripts/
 # diarization/
 
+# Backup of original files
+old_txt/
+
 # Notebook checkpoints
 .ipynb_checkpoints/
 
